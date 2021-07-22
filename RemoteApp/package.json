@@ -1,5 +1,5 @@
 {
-  "name": "webpack-federation-bug",
+  "name": "remote-app",
   "version": "1.0.0",
   "private": true,
   "scripts": {
